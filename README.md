@@ -53,7 +53,7 @@ otopilot ve kapılardan kendi kendine geçen **otonom görev**.
 Python 3.10 veya üstü gerekir.
 
 ```bash
-git clone https://github.com/KULLANICI_ADINIZ/sualti-simulator.git
+git clone https://github.com/asminnisa7/sualti-simulator.git
 cd sualti-simulator
 pip install -r requirements.txt
 ```
